@@ -129,4 +129,4 @@ docker compose exec db psql -U appuser -d appdb -c "SELECT * FROM memos;"
 | 파일을 고쳐도 반영 안 됨 | 볼륨 마운트가 있는지 (`api`, `front`만 있음) 확인 |
 
 
-34skn 3nd 1team
+ㅇㄹㅇ라ㅣㅓㄴㅇㄹ
